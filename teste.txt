@@ -1,4 +1,3 @@
 testes com ferrament git/git hub
 testes com comandos iniciais
 continuação dos testes
-modificação para testes com git log
