@@ -1,3 +1,6 @@
 Prezados Senhores,
 Boa noite, boa tarde, bom dia
+Prezados Senhore,
+O git é sensacional.
+Boa aula!
 Saudações!!!
